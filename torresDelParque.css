@@ -1,0 +1,11 @@
+
+
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url('https://laud.udistrital.edu.co/sites/default/files/imagen-noticia/2024-11/las-torres-del-parque_Rogelio_Salmona_1.jpg'); 
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+}

@@ -20,8 +20,19 @@ top:-10%;
     bottom:-10%;
 }
 .torresDelParque{
-height: 9cm;
+height: 12cm;
 position:absolute;
 left:40%;
 top:30%;
+}
+.lasCruces{
+  height:10cm;
+  position:absolute;
+  right:25%;
+}
+.teusaquillo{
+  width: 12cm;
+  position:absolute;
+  left:5%;
+  bottom:-10%;
 }

@@ -1,8 +1,8 @@
 body {
   margin: 0;
   padding: 0;
-  background-image: url('https://bogota.gov.co/sites/default/files/styles/1050px/public/2025-02/la-candelaria-como-unica-area-turistica-sostenible-de-bogota.png'); /* reemplaza con la ruta real */
-  background-size: cover;
+   background-image: url('assets/LaCandelaria.jpg');
+   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   height: 100vh;
